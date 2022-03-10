@@ -23,16 +23,22 @@ $ cd autoware.ai.openplanner
 $ mkdir -p src
 ```
 
-For Autoware.AI 1.13.0 Release + the latest OpenPlanner development:
+### For Autoware.AI 1.13.0 Release + the latest OpenPlanner development:
 
 ```
 $ vcs import src < openplanner.1.13.repos
 ```
 
-For Autoware.AI (latest-master) 1.15.0 Release + the latest OpenPlanner development:
+### For Autoware.AI (latest-master) 1.15.0 Release + the latest OpenPlanner development:
 
 ```
 $ vcs import src < openplanner.1.15.repos
+```
+
+### For Autoware.AI 1.13.0 Release + the latest OpenPlanner development + Smart Mapping Tools (smt):
+
+```
+$ vcs import src < openplanner.1.13.smt.repos
 ```
 
 Install dependecies using rosdep: 
