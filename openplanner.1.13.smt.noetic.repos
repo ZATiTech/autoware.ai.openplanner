@@ -15,6 +15,10 @@ repositories:
     type: git
     url: https://github.com/hatem-darweesh/utilities.git
     version: openplanner.1.13-noetic
+  autoware/smt:
+    type: git
+    url: https://github.com/ZATiTech/smt.git
+    version: master
   autoware/documentation:
     type: git
     url: https://github.com/Autoware-AI/documentation.git
