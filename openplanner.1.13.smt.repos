@@ -2,11 +2,11 @@ repositories:
   autoware/common:
     type: git
     url: https://github.com/hatem-darweesh/common.git
-    version: openplanner.1.13
+    version: smt_dev
   autoware/core_perception:
     type: git
     url: https://github.com/hatem-darweesh/core_perception.git
-    version: openplanner.1.13
+    version: smt_dev
   autoware/core_planning:
     type: git
     url: https://github.com/hatem-darweesh/core_planning.git
@@ -17,7 +17,7 @@ repositories:
     version: openplanner.1.13
   autoware/smt:
     type: git
-    url: https://github.com/ZATiTech/smt.git
+    url: git@github.com:ZATiTech/smt.git
     version: master
   autoware/documentation:
     type: git
