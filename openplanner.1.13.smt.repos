@@ -10,7 +10,7 @@ repositories:
   autoware/core_planning:
     type: git
     url: https://github.com/hatem-darweesh/core_planning.git
-    version: openplanner.1.13
+    version: smt_dev
   autoware/utilities:
     type: git
     url: https://github.com/hatem-darweesh/utilities.git
