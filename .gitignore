@@ -1,0 +1,6 @@
+# Ignore build artifacts and development folders
+build/
+devel/
+log/
+smt_eclipse_ws/
+src/
